@@ -133,6 +133,7 @@ button {
     border-color: #3882F6;
     border-width: 3px;
     border-radius: 8px;
+    transform: translateZ(0)
 }
 
 .subtext {
