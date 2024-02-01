@@ -93,9 +93,9 @@ button {
 .random {
     display: flex;
     flex-direction: column;
-    align-items: ;
-    gap: 32px;
-    padding: 32px 128px;
+    align-items: stretch;
+    gap: 48px;
+    padding: 32px 128px 128px 128px;
     justify-content: stretch;
 
 }
