@@ -129,9 +129,9 @@ button {
 .outline {
     width: 150px;
     height: 150px;
-    outline-style: solid;
-    outline-color: #3882F6;
-    outline-width: 3px;
+    border-style: solid;
+    border-color: #3882F6;
+    border-width: 3px;
     border-radius: 8px;
 }
 
